@@ -14,6 +14,4 @@ export class SquareComponent {
   //"dumb component" ~ unchanging/not dynamic
   @Input() value!: 'X' | 'O';
 
-
-
 }
